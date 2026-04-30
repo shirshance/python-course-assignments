@@ -16,6 +16,11 @@ For example, for a final volume of 10 mL and a split ratio of 1:10:
 - `cell_split_gui.py` - GUI version using `tkinter`.
 - `test_cell_split.py` - test file with test cases for the calculation function.
 
+## AI Interaction
+
+I used ChatGPT to help me refactor my Day 02 code into a function, separate the logic into a module, and create different interfaces (input, CLI, and GUI). I also used it to debug import errors and write basic test cases.
+
+
 ## How to run
 
 Standard input version:
@@ -24,6 +29,3 @@ Standard input version:
 python cell_split_input.py
 
 
-## AI Interaction
-
-I used ChatGPT to help me refactor my Day 02 code into a function, separate the logic into a module, and create different interfaces (input, CLI, and GUI). I also used it to debug import errors and write basic test cases.
