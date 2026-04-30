@@ -6,7 +6,7 @@ def calculate():
     total_volume = float(total_volume_entry.get())
     split_ratio = float(split_ratio_entry.get())
 
-    cells, medium = calculate_split(total_volume, split_ratio)
+    cells, medium = split_cells(total_volume, split_ratio)
 
     result_label.config(
         text=f"Take {cells:.2f} mL of cells\n"
