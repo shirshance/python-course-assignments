@@ -1,5 +1,6 @@
 import tkinter as tk
-from cell_split_lib import calculate_split
+from cell_split_lib import split_cells
+
 
 def calculate():
     total_volume = float(total_volume_entry.get())
