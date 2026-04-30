@@ -1,9 +1,9 @@
-from cell_split_lib import calculate_split
+from cell_split_lib import split_cells
 
 total_volume = float(input("Enter total volume of cells (mL): "))
 split_ratio = float(input("Enter split ratio (e.g., 10 for 1:10): "))
 
-cells, medium = calculate_split(total_volume, split_ratio)
+cells, medium = split_cells(total_volume, split_ratio)
 
 print("\n--- Cell Splitting Instructions ---")
 print(f"Take {cells:.2f} mL of cells")
