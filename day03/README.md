@@ -22,3 +22,8 @@ Standard input version:
 
 ```bash
 python cell_split_input.py
+
+
+## AI Interaction
+
+I used ChatGPT to help me refactor my Day 02 code into a function, separate the logic into a module, and create different interfaces (input, CLI, and GUI). I also used it to debug import errors and write basic test cases.
