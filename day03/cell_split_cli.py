@@ -1,5 +1,5 @@
 import sys
-from cell_split_lib import calculate_split
+from cell_split_lib import split_cells
 
 if len(sys.argv) != 3:
     print("Usage: python cell_split_cli.py <total_volume> <split_ratio>")
@@ -8,7 +8,7 @@ if len(sys.argv) != 3:
 total_volume = float(sys.argv[1])
 split_ratio = float(sys.argv[2])
 
-cells, medium = calculate_split(total_volume, split_ratio)
+cells, medium = split_cells(total_volume, split_ratio)
 
 print("\n--- Cell Splitting Instructions ---")
 print(f"Take {cells:.2f} mL of cells")
