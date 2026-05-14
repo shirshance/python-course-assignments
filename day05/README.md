@@ -71,8 +71,4 @@ pytest
 Test 1: checks Excel coordinate conversion
 Test 2: checks that tumor values are extracted from the correct cells
 
-## Notes
 
-This project was developed as part of the Python course assignment and demonstrates practical analysis of biological laboratory data.
-
-AI tools were used for code assistance, debugging, and project organization.
