@@ -68,6 +68,9 @@ Run tests using:
 pytest
 ```
 
+Test 1: checks Excel coordinate conversion
+Test 2: checks that tumor values are extracted from the correct cells
+
 ## Notes
 
 This project was developed as part of the Python course assignment and demonstrates practical analysis of biological laboratory data.
