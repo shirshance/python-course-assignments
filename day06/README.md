@@ -46,3 +46,7 @@ Install the required package:
 
 ```bash
 pip install -r requirements.txt
+
+## AI Used
+
+I used ChatGPT to write this code.
