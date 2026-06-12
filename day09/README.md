@@ -12,6 +12,7 @@ This is a beginner machine learning project, so I used Logistic Regression.
 
 Dataset name: Lung Cancer Prediction Dataset
 Source: Kaggle
+link: https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
 
 The dataset contains 284 samples and 16 attributes.
 
