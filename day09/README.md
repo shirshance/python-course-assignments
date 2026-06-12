@@ -12,7 +12,6 @@ This is a beginner machine learning project, so I used Logistic Regression.
 
 Dataset name: Lung Cancer Prediction Dataset
 Source: Kaggle
-link: https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
 
 The dataset contains 284 samples and 16 attributes.
 
@@ -48,7 +47,7 @@ The input features include:
 ## How to download the data
 
 1. Go to Kaggle.
-2. Search for: `Lung Cancer Prediction Dataset`
+2. Search for: `Lung Cancer Prediction Dataset`, or click this link: https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer
 3. Download the CSV file.
 4. Put the CSV file in the same folder as the Python script.
 5. Make sure the file is named:
